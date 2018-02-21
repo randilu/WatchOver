@@ -51,7 +51,7 @@ import-app
         Optional
           -s, --skipSubscriptions    Skips subscriptions of the Application
           -o, --owner string         Name of the target Owner of the Application as desired by the Importer
-          -r, --perserveOwner        Preserves app owner from the original Environment
+          -r, --preserveOwner        Preserves app owner from the original Environment
           -u, --username string      Username
           -p, --password string      Password
           
