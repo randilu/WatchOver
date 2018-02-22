@@ -100,8 +100,8 @@ list apps
 ```
 Examples:
     
-        wso2apim list apps -e dev -o admin 
-        wso2ppim list apps -e staging -o sampleUser -u admin -p 123456
+        apimcli list apps -e dev -o admin 
+        apimcli list apps -e staging -o sampleUser -u admin -p 123456
      
 ```
 ```
