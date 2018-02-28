@@ -68,9 +68,9 @@ apimcli import-app (--file <app-zip-file> --environment <environment-to-which-th
 ```
 Examples:
 
-        apimcli import-app -f qa/apps/sampleApp.zip -e dev
-        apimcli Import App -f staging/apps/sampleApp.zip -e prod -o testUser -u admin -p admin
-        apimcli import-app -f qa/apps/sampleApp.zip --preserveOwner --skipSubscriptions -e staging
+        apimcli import-app -f qa/sampleApp.zip -e dev
+        apimcli Import App -f staging/sampleApp.zip -e prod -o testUser -u admin -p admin
+        apimcli import-app -f qa/sampleApp.zip --preserveOwner --skipSubscriptions -e staging
 
 ```
 ```
